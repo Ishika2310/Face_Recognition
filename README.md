@@ -9,3 +9,8 @@ run following command and configure the aws credential
 aws configure
 ```
 add you aws access key and secret key
+run
+```
+terraform init
+``` 
+command in repository directory before executing the main code
