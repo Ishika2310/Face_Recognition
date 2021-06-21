@@ -7,4 +7,4 @@ print("Current second =", obj_now.second)
 print("Current microsecond =", obj_now.microsecond)
 
 import pywhatkit
-pywhatkit.sendwhatmsg("+918979288129","Hello test Message",obj_now.hour,obj_now.minute+1)
+pywhatkit.sendwhatmsg("+91 phone_number","Hello test Message",obj_now.hour,obj_now.minute+1)
